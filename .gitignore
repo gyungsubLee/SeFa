@@ -7,10 +7,10 @@ __pycache__/
 
 /checkpoints/
 /results/
-*.jpg
-*.png
+# *.jpg
+# *.png
 *.jpeg
-*.gif
+# *.gif
 *.avi
 *.mp4
 
@@ -18,7 +18,7 @@ __pycache__/
 *.txt
 *.json
 *.log
-*.html
+# *.html
 *.tar
 *.zip
 events.*
